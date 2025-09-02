@@ -194,3 +194,4 @@ zipp==3.22.0
 openrouteservice==2.3.3
 folium==0.20.0
 streamlit-folium
+groq
