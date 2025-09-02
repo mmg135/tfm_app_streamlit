@@ -193,4 +193,4 @@ wrapt==1.17.2
 zipp==3.22.0
 openrouteservice==2.3.3
 folium==0.20.0
-streamlit_folium
+streamlit-folium
